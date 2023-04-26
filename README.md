@@ -4,8 +4,10 @@
 Simple webpage to chat with people in rooms | Socket.Io Real-time Chat App 
 ## Author
 
-- [@mogileeswar](https://github.com/mogili1402)
 
+Babafakruddin Babanbai, 
+Shaik mahammad tippu sultan, 
+Kammanuru Afzal
 
 ## Features
 
@@ -26,12 +28,6 @@ Install node
 
     
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/mogili1402/Chat-App
-```
 
 Go to the project directory
 
@@ -85,4 +81,4 @@ To run this project, you will need to add the following environment variables to
 
 ## Feedback
 
-If you have any feedback, please reach out to us at mogileeswarreddygundluri842@gmail.com
+If you have any feedback, please reach out to us at babanbaibabafakruddin@gmail.com
